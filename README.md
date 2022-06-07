@@ -8,4 +8,4 @@
 | Heiht:        | 170cm         |
 | Weight:       | Secret        |
 
-## *I'm now working on my final project for Web Programming*
+## *I'm now working on my final exam*
