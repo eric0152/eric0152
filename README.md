@@ -4,8 +4,7 @@
 
 | Name:         | Eric Yeh      |
 | ------------- |:-------------:|
-| School:       | CMSH to NCU   |
-| Heiht:        | 170cm         |
-| Weight:       | Secret        |
+| School:       | NCU           |
+| Learning:     | Java,C,Python |
 
-## *I'm now working on my final exam*
+## *Trying to dealing with every obstacles occured in my life.*
